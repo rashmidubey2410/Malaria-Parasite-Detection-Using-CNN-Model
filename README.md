@@ -1,0 +1,1 @@
+# Malaria-Parasite-Detection-Using-CNN-Model
